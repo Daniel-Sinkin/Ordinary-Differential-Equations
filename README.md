@@ -6,3 +6,12 @@
 * 4 ✅
 * 5 ✅
 * 6 ✅
+
+### Section 3: Diffeomorphisms
+* 1 ✅
+* 2 ❌
+
+### Section 4: Vector Fields
+* 1 ✅
+* 2 ✅
+* 3 ✅

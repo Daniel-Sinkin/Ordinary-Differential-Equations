@@ -27,7 +27,7 @@ $$
 $$
 whose derivative can be written as
 $$
-D\pi­_i : \mathbb{R}^n \rightarrow \mathbb{R}^n
+D\pi_i : \mathbb{R}^n \rightarrow \mathbb{R}^n
 $$
 and for fixed $x$ the function $g(\cdot, x) : \mathbb{R} \rightarrow \mathbb{R}^n$, whose derivative is given as a map
 $$
